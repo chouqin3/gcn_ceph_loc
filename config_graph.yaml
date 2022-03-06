@@ -1,0 +1,19 @@
+
+dataset_pth : '/media/lugang/typical_images/images'
+cuda_device :  1
+batch_size : 1
+num_workers : 2
+num_landmarks : 19
+learning_rate : 0.0001
+decay_step : 30
+loss: l1
+decay_gamma : 0.5
+num_epochs : 100
+save_seq : 1
+levels : 6
+iterations: 10
+test_iterations: 3
+model_path : model
+resume : True
+best_test_error: 2
+train_augment: False
