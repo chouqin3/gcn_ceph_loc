@@ -9,7 +9,7 @@ If you find our work useful, please consider cite our paper:
 
 ```
 @article{lu2022,
-title={Fast and Accurate Craniomaxillofacial Landmark Detection via 3D Faster R-CNN},
+title={Landmark Localization for Cephalometric Analysis using Multiscale Image Patch-based Graph Convolutional Networks},
 author={Lu, Gang and Zhang, Yuanxiu and Kong, Youyong and Zhang, Chen and Coatrieux, Jean-Louis and Shu, Huazhong},
 journal={IEEE Journal of Biomedical and Health Informatics},
 year={2022},
