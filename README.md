@@ -5,7 +5,7 @@
 ```python graph_final_test.py```
 
 
-Note that data is publicly available. If you find our work useful, please consider cite our paper:
+Note that the data is publicly available. If you find our work useful, please consider cite our paper:
 
 ```
 @article{lu2022,
