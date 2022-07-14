@@ -9,7 +9,7 @@ Note that the data is publicly available. If you find our work useful, please co
 
 ```
 @article{lu2022,
-title={Landmark Localization for Cephalometric Analysis using Multiscale Image Patch-based Graph Convolutional Networks},
+title={Landmark Localization for Cephalometric Analysis Using Multiscale Image Patch-based Graph Convolutional Networks},
 author={Lu, Gang and Zhang, Yuanxiu and Kong, Youyong and Zhang, Chen and Coatrieux, Jean-Louis and Shu, Huazhong},
 journal={IEEE Journal of Biomedical and Health Informatics},
 year={2022},
